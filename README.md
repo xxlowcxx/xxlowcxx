@@ -19,9 +19,10 @@ Owner: LowC. Toolaid.
 | --- | --- |
 | [Cooler](https://github.com/xxlowcxx/Cooler) | Private. The lab suite. Six parts live inside it, listed below. |
 | [CableSiren](https://github.com/xxlowcxx/CableSiren) | Private. USB iOS lab. The iOS side of Cooler. |
-| [PhoenixWrap](https://github.com/xxlowcxx/PhoenixWrap) | Private. File rebirth transfer. |
+| [PhoenixWrap](https://github.com/xxlowcxx/PhoenixWrap) | Private. Quarantine, scan, rebuild. The original file stays. |
 | [burn-box-stage-1](https://github.com/xxlowcxx/burn-box-stage-1) | Read-only vault. Scan, safe copy, delete the original. |
-| [PlugKey-IPP](https://github.com/xxlowcxx/PlugKey-IPP) | USB presence language. One stick, two births. |
+| [PlugKey-IPP](https://github.com/xxlowcxx/PlugKey-IPP) | Plug Key. The USB. It talks by insertion count. |
+| [PlugKey-IPP](https://github.com/xxlowcxx/PlugKey-IPP) | IPP. Independent plug persistence. The language layer. Not the stick. |
 
 ### Inside Cooler
 
@@ -49,7 +50,7 @@ Cooler stays one suite because the code is one package. These are the parts:
 | Repo | What it is |
 | --- | --- |
 | [toolaid-hq-catalog](https://github.com/xxlowcxx/toolaid-hq-catalog) | Inventory of the HQ laptop. Start here for the local catalog. |
-| [T00L-AID](https://github.com/xxlowcxx/T00L-AID) | Early toolchain. One module inside it: `modules/SENSEWAR`. |
+| [T00L-AID](https://github.com/xxlowcxx/T00L-AID) | Swiss-army for devices. Flipper and iPhone utilities. Never finished. Spectrum modules are not in here. |
 | [Ventoy-MobileSandbox](https://github.com/xxlowcxx/Ventoy-MobileSandbox) | Private. Ventoy stick. Also holds `D0tMatr1x-Sandbox`. |
-| [Hand-0f-G0d](https://github.com/xxlowcxx/Hand-0f-G0d) | Keyboard handoff for a supervised session. |
-| [AgentSmith](https://github.com/xxlowcxx/AgentSmith) | Private lab notes. Leave it private. |
+| [Hand-0f-G0d](https://github.com/xxlowcxx/Hand-0f-G0d) | Reads the AI chat. Wrapped lines run on the user's end. Inventory. |
+| [AgentSmith](https://github.com/xxlowcxx/AgentSmith) | Private. Inventory only. |
