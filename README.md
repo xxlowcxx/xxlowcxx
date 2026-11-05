@@ -10,7 +10,7 @@ The mission is to repush the code and finish each project. A clear page is not a
 
 | Looks alike | They are |
 | --- | --- |
-| Plug Key and IPP | The USB, and the insertion language. IPP means Insertion Plug Presence. Same repo, two projects. |
+| Plug Key and IPP | The USB, and the insertion language. IPP means Insertion Plug Presence. Two repos. |
 | T00L-AID and the spectrum brand | The swiss-army, and PhantomSense / SpectraGuard / EchoTrap / SENSEWAR. |
 | T00L-AID and toolaid-hq-catalog | The program, and the laptop inventory. |
 | Phoenix and Burn Box | Phoenix keeps the original. Burn Box deletes it. |
@@ -46,7 +46,10 @@ The mission is to repush the code and finish each project. A clear page is not a
 | [CableSiren](https://github.com/xxlowcxx/CableSiren) | Private. USB iOS lab. Cooler's iOS pack. |
 | [PhoenixWrap](https://github.com/xxlowcxx/PhoenixWrap) | Private. Quarantine, scan, rebuild. The original stays. |
 | [burn-box-stage-1](https://github.com/xxlowcxx/burn-box-stage-1) | Read-only vault. Scan, safe copy, delete the original. |
-| [PlugKey-IPP](https://github.com/xxlowcxx/PlugKey-IPP) | Plug Key is the USB. IPP is Insertion Plug Presence, the insertion language. Not the same thing. |
+| [PlugKey](https://github.com/xxlowcxx/PlugKey) | The USB. It talks by insertion count. |
+| [IPP](https://github.com/xxlowcxx/IPP) | Insertion Plug Presence. The insertion language. Not the stick. |
+
+The old shared page [PlugKey-IPP](https://github.com/xxlowcxx/PlugKey-IPP) only points at those two.
 
 ### Inside Cooler
 
